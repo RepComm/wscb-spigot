@@ -1,0 +1,5 @@
+main: repcomm.App
+name: wscb-spigot
+version: 1.0
+description: API providing websockets to other plugins (specifically intended for grakkit plugin)
+
